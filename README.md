@@ -41,7 +41,7 @@ To train your own dataset, you'll need to use the `prepare_dataset` with data pr
 Based on the unseen test data, the classification report returned good results:
 
 
-|            |  precision |   recall | f1-score |  support |
+|         /  |  precision |   recall | f1-score |  support |
 |-------------------------|----------|----------|----------|
 |          0 |     0.97   |   0.96   |   0.97   |   4696   |
 |          1 |     0.95   |   0.97   |   0.96   |   4284   |
